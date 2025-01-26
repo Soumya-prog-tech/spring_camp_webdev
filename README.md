@@ -32,4 +32,4 @@ step 14 : created a login ejs file which contains the code of the login page
 ---
 step 15 : created a login put route ( including username and password) - first checked the validity of the entries, then checked if the username exists, we checked if the password matches, if the password matches, we send Logined
 ---
-step 16 : completed 
+
